@@ -1,0 +1,49 @@
+body {
+    background-color: black;
+}
+
+.laranja {
+    color: orange;
+}
+
+.descricao {
+    color: white;
+    font-size: 2.5rem;
+    text-align: center;
+}
+
+.lorem {
+    color: white;
+
+    text-align: center;
+}
+
+.logo {
+    display: flex;
+    width: 100%;
+    color: white;
+    font-size: 2rem;
+    justify-content: space-around;
+    gap: 580px;
+}
+
+ul {
+    color: white;
+    display: flex;
+    gap: 40px;
+    font-size: 1.2rem;
+    list-style: none;
+    margin-top: 45px;
+}
+
+img {
+    justify-content: center;
+}
+
+a{
+    text-decoration: none;
+}
+
+.branco{
+    color: white;
+}
